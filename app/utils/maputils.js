@@ -13,6 +13,7 @@ import {
 export const GOOGLE_MAPS_APIKEY = 'AIzaSyC#######################';
 //Replace this key with your google map key.
 
+// Define MapScreenstyles
 export const MapScreenstyles = StyleSheet.create({
 
     tabicon:{
