@@ -53,6 +53,7 @@ const LONGITUDE_DEST2 = -73.955214;
 // end1: 40.6677813,-73.955665
 // end2: 40.665991,-73.94749
 
+// customStyle
 const customStyle = [
     {
         "featureType": "all",
